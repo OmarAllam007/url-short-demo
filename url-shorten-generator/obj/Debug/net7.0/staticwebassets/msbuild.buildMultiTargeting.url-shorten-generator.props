@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/url-shorten-generator.props" />
+</Project>

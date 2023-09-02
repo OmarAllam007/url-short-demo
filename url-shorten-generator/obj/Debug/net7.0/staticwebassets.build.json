@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "s34W+K95zpSQorSeOKqlGusCXV20G4kRhOm0hbxKAmw=",
+  "Source": "url-shorten-generator",
+  "BasePath": "_content/url-shorten-generator",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
